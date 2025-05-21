@@ -145,6 +145,9 @@ class Sostituzioni:
 		print(f"Empty_classes: {empty_classes}")
 		print(f"Missing teachers: {missing_teachers}")
 
+		# sort classes_timetables by CLASS ALPHABETICAL ORDER
+		classes_timetables = dict(sorted(classes_timetables.items(), key=lambda item: item[0]))
+
 		# Check if each class has a missing teacher
 		for classname, weekdays in classes_timetables.items():
 

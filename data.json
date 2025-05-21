@@ -1,8 +1,9 @@
 {
     "missing_teachers": [
-        "DI BATTISTA VALENTINA",
+        "LAGHI PIER GIORGIO",
         "PARIGI FRANCESCO",
-        "LAGHI PIER GIORGIO"
+        "SANTORELLI MARIA",
+        "CIPRO ANNA"
     ],
     "partially_missing": {},
     "credits": [],
@@ -10,5 +11,5 @@
     "partial_class_trips": [
         "3F"
     ],
-    "weekday": "3"
+    "weekday": "4"
 }
