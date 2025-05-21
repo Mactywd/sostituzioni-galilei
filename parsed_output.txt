@@ -1,0 +1,19 @@
+1B: ore 9:20 con prof. CASTELLINI CRISTINA (G), ore 10:20 con prof. IMBERGAMO MASSIMO (R).
+1O: ore 10:20 con prof. VALENTINI SERGIO (G).
+2B: la classe esce alle 12:20.
+2D: ore 11:20 con prof. CINCINNATO MARIA GRAZIA (G).
+2F: ore 10:20 con prof. CIRILLO NATALIA (G), la classe esce alle 11:20.
+3B: ore 12:20 con prof. ARENA SALVATORE (G).
+3C: la classe entra alle ore 10:20.
+3E: la classe esce alle 11:20.
+3F: la classe esce alle 11:20.
+3I: ore 9:20 con prof. MACHETTI  ALESSANDRA (G).
+3O: ore 10:20 con prof. SCANNAPIECO MARIA (D), ore 11:20 con prof. IMBERGAMO MASSIMO (G).
+3S: la classe entra alle ore 9:20.
+4B: la classe entra alle ore 9:20.
+4E: ore 10:20 con prof. PASQUI VALERIA (D).
+4L: la classe esce alle 12:20.
+5F: la classe entra alle ore 9:20.
+5I: ore 9:20 con prof. VALENTINI SERGIO (G), ore 11:20 con prof. FRANCI TOMMASO (G).
+5O: la classe entra alle ore 9:20, ore 10:20 con prof. TADDEI SONIA (P).
+5S: la classe esce alle 12:20.

@@ -1,0 +1,84 @@
+{
+    "3C": {
+        "late_enter": "10:20"
+    },
+    "3S": {
+        "late_enter": "9:20"
+    },
+    "4B": {
+        "late_enter": "9:20"
+    },
+    "5F": {
+        "late_enter": "9:20"
+    },
+    "5O": {
+        "late_enter": "9:20",
+        "substitutions": {
+            "10:20": "TADDEI SONIA (P)"
+        }
+    },
+    "2B": {
+        "early_exit": "12:20"
+    },
+    "2F": {
+        "early_exit": "11:20",
+        "substitutions": {
+            "10:20": "CIRILLO NATALIA (G)"
+        }
+    },
+    "3E": {
+        "early_exit": "11:20"
+    },
+    "3F": {
+        "early_exit": "11:20"
+    },
+    "4L": {
+        "early_exit": "12:20"
+    },
+    "5S": {
+        "early_exit": "12:20"
+    },
+    "1B": {
+        "substitutions": {
+            "9:20": "CASTELLINI CRISTINA (G)",
+            "10:20": "IMBERGAMO MASSIMO (R)"
+        }
+    },
+    "1O": {
+        "substitutions": {
+            "10:20": "VALENTINI SERGIO (G)"
+        }
+    },
+    "2D": {
+        "substitutions": {
+            "11:20": "CINCINNATO MARIA GRAZIA (G)"
+        }
+    },
+    "3B": {
+        "substitutions": {
+            "12:20": "ARENA SALVATORE (G)"
+        }
+    },
+    "3I": {
+        "substitutions": {
+            "9:20": "MACHETTI  ALESSANDRA (G)"
+        }
+    },
+    "3O": {
+        "substitutions": {
+            "10:20": "SCANNAPIECO MARIA (D)",
+            "11:20": "IMBERGAMO MASSIMO (G)"
+        }
+    },
+    "4E": {
+        "substitutions": {
+            "10:20": "PASQUI VALERIA (D)"
+        }
+    },
+    "5I": {
+        "substitutions": {
+            "9:20": "VALENTINI SERGIO (G)",
+            "11:20": "FRANCI TOMMASO (G)"
+        }
+    }
+}
